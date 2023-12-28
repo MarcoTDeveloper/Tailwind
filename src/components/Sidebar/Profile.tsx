@@ -9,8 +9,8 @@ export function Profile() {
         className="w-10 h-10 rounded-full"
       />
       <div className="flex flex-col truncate">
-        <span className="text-sm font-semibold text-zinc-700">Marco Túlio</span>
-        <span className="truncate text-sm text-zinc-500">marcotulio@gmail.com</span>
+        <span className="text-sm font-semibold text-zinc-700 dark:text-zinc-100">Marco Túlio</span>
+        <span className="truncate text-sm text-zinc-500 dark:text-zinc-400">marcotulio@gmail.com</span>
       </div>
       <Button
         type="button"
